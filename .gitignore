@@ -1,3 +1,9 @@
+
+/analytics_reports
+/updates
+result.txt
+result-false.txt
+output.xlsx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
